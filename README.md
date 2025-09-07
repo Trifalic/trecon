@@ -20,7 +20,7 @@ A simple, modular, and effective Python-based reconnaissance tool designed for n
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/trecon.git
+   git clone https://github.com/Trifalic/trecon.git
    cd trecon
    ```
 
