@@ -1,0 +1,28 @@
+[36mThe ip of google.com is:[34m 172.217.26.110
+[36mThe nameservers of google.com are:[34m['ns4.google.com.', 'ns3.google.com.', 'ns2.google.com.', 'ns1.google.com.']
+[36mThe mail servers of google.com are:[34m['smtp.google.com.']
+[33mHTTP/1.0 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-WyZiO3P2ctIg6QemzGmBgg' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Sun, 07 Sep 2025 11:12:13 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Expires: Sun, 07 Sep 2025 11:12:13 GMT
+Cache-Control: private
+Set-Cookie: AEC=AVh_V2hHZxMynyuomy1fhvh7Ve1gwAn86wuIseL0ubq1xGrYN31lDGCwp10; expires=Fri, 06-Mar-2026 11:12:13 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Set-Cookie: NID=525=Bui-DiDnI-myCiuQtCria-EXi0opRkH78F3GYMkkk7dGuR5-ueToZUBGeeLuu0zTv8ofQPDy2P90qiSrnYHxxj7bTpGj2oxOX9oqyoCuVVP8v9wicGJGqhUcE9fSIgg7T3HBYbqC3x73hM0vOXFQgNEKzgTX2B_liqK8nesuFXimDLkFTRBC5oRxPKrbMsB5tdL2M9MU6tnwFAY; expires=Mon, 09-Mar-2026 11:12:13 GMT; path=/; domain=.google.com; HttpOnly
+
+
+[35m[34m Is not open
+[35m[34m Is not open
+[35m[34m Is not open
+[35m[34m Is not open
+[35m[34m Is not open
+[35m[34m Is not open
+[35m[34m Is not open
+[35m[34m Is not open
+[35m[34m Is not open
+[35m[34m Is not open
+[33mThe open ports are:
