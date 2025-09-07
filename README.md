@@ -70,4 +70,4 @@ Use this tool responsibly and only against systems you own or have explicit perm
 
 ---
 
-Made with savage determination by Tanishq 💻🔥
+Made with savage determination by Trifalic 💻🔥
